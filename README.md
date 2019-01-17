@@ -10,3 +10,7 @@ Ich werde noch anpassen:
 - Der Sucher steckt in einer Ecke fest und weiß nicht wohin
 - Script etwas verschönern
 - Das der Sucher seinem Eigenem Pfad folgt wenn er keine andere Möglichkeit sieht
+
+
+![pic1](img/Pic1.PNG)
+![pic2](img/Pic2.PNG)
